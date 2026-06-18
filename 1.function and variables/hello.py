@@ -1,5 +1,5 @@
-# print("Whats your name?")
-# input()
+# ask name from user
 name=input("what's your name?") 
-print(name)
-print("hello,world")
+
+#say hello to user 
+print("hello",name)
